@@ -1,7 +1,0 @@
-﻿"Номер позиции","Типоразмер","Количество","Применение/Назначение","Pump Model","Liquid name","Liquid description","Speed","Shaft diameter under mechanical seal","Differential Head, Rated","TDH, shutoff","Discharge Pressure","Rated Suction Pressure","Max Suction Pressure","Specific Gravity, rated","Specific Gravity, max","MAWP","Rated temp","Max temp","Vapor Pressure","Viscosity","Mat. selected","API Pump Type"
-,,,,,,,"rpm",,"m","m","bar.g","kPa.a","kPa.a","kg/dm3","kg/dm3","kPa.a","deg C","deg C","bar.a","cSt",,
-"=""10LCB01AP011; 10LCB01AP021; 10LCB01AP031""","=""1650VLT-H""","3",,"=""VLT""","=""Water""","=""water""","1475",,"266.0","326.0","25.25","20.00","200.0","0.992","0.992","101.3","25.00","40.00","0.04","0.89","=""Cast Iron (A48_CL30) / Cast Iron (A48_CL30)""","=""VS6"""
-"=""20LCB01AP011; 20LCB01AP021; 20LCB01AP031""","=""1650VLT-H""","3",,"=""VLT""","=""Water""","=""water""","1475",,"265.0","320.7","25.69","81.00","92.00","0.992","0.992","101.3","25.00","40.00","0.04","0.89","=""Cast Iron (A48_CL30) / Cast Iron (A48_CL30)""","=""VS6"""
-"=""002""",,"1","=""Spare parts""",,,,,,,,,,,,,,,,,,,
-"=""003""",,"1","=""Start-up and commissioning""",,,,,,,,,,,,,,,,,,,
-"=""002""","=""ZW 12x8x19 (A)""","1",,,"=""Water""","=""water""","1480",,"70.00","83.76","6.86","101.3","101.3","0.998","0.998","921.3","20.00","20.00","0.02","1.00","=""Cast Iron - 316SS Fitted""","=""Between bearing"""
